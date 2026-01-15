@@ -1,0 +1,8 @@
+{
+  "name": "AI Digital Business",
+  "description": "Step into the spotlight. An effortless way to cast yourself or friends in high-quality Veo videos using simple prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
